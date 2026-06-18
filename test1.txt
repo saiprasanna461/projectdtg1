@@ -1,1 +1,2 @@
 created the text1.txt file
+new features added
